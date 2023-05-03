@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Basics of NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "keywords": [
+    "sundar"
+  ],
+  "author": "Sundararajan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

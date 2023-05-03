@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.1",
+    "twilio": "^4.8.0"
+  },
+  "name": "nodemail",
+  "version": "1.0.0",
+  "description": "mail using nodemailer third party package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sundararajan v",
+  "license": "ISC"
+}
